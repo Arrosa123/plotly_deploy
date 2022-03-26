@@ -1,5 +1,5 @@
 body {
-    background-color: #06bbac;
+    background-color: #dd4205d5;
     }
  
  .tag {
@@ -8,7 +8,7 @@ body {
     }  
 
 .jumbotron {
-    background-image: url("../image/bacteria.jpg");
+    background-image: url("../image/virus.jpg");
     background-size: 100% 100%;
     text-align: center;
     }
