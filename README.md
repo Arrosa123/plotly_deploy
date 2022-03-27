@@ -12,6 +12,10 @@ The dashboard was designed for "Test Subject ID" and the visualizations display 
 
 With the help of JavaScript, VS Code, Plotly, d3, HTML, Bootstrap, CSS, and JSON and the process of writing the code, we created Belly Button Biodievsity Dashboard. 
 
+
+
+https://arrosa123.github.io/plotly_deploy/
+
 ![Belly Button Biodiversity](https://user-images.githubusercontent.com/96403349/160301310-87026397-016e-405d-bd6f-a80311076967.png)
 
 
